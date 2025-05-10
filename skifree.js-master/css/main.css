@@ -21,8 +21,7 @@ textarea {
 body {
     font-size: 1em;
     line-height: 1.4;
-    background-color: white;
-
+    
 }
 
 /*
@@ -120,7 +119,7 @@ textarea {
  */
 
 .ir {
-    background-color: transparent;
+    background-color: white;
     border: 0;
     overflow: hidden;
     /* IE 6/7 fallback */
